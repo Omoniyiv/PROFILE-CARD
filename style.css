@@ -51,7 +51,7 @@ h4{
     top: -65px;
     left: 50%;
     transform: translate(-50%, 0%);
-    background-image: url('./images/me.jpg');
+    background-image: url('./me.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
